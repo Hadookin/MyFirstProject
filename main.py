@@ -5,4 +5,4 @@ def sum(a, b):
 x = 5
 y = 10
 total = sum(x, y)
-print("Сумма:", total) # 12.09.25
+print("СУММА:", total) # 12.09.25
